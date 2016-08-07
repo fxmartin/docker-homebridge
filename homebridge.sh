@@ -21,7 +21,7 @@ _build() {
 
 _run() {
   # Run (first time)
-  docker run --net=host -p 51826:51826 -v "/Users/fxmartin/Developments/projects/Domotique - Home/test-homebridge/homebridge-docker/homebridge/":/root/.homebridge --name $IMAGE_NAME cbrandlehner/homebridge:$VERSION
+  docker run -d --net=host -p 51826:51826 -v "/Users/fxmartin/Developments/projects/Domotique - Home/test-homebridge/homebridge-docker/homebridge/":/root/.homebridge --name $IMAGE_NAME cbrandlehner/homebridge:$VERSION
 }
 
 _stop() {

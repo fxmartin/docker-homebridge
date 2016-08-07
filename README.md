@@ -71,6 +71,12 @@ Diplays stdout log of the running container
 
 `./homebridge.sh logs`
 
+### debugs
+
+Disable the daemon mode when running the docker
+
+`./homebridge.sh debug`
+
 ## Changelog
 ###0.11
 moved from nodesource/jessie:5.6.0 to nodesource/jessie:5.8.0
@@ -89,3 +95,5 @@ added link to blog and sample start script
 moved to jessie:latest
 ###0.16
 added debug run command to homebridge.sh
+###0.17
+added debug details in README.md
