@@ -1,7 +1,7 @@
-[![Docker Stars](https://img.shields.io/docker/stars/cbrandlehner/homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/cbrandlehner/homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
+[![Docker Stars](https://img.shields.io/docker/stars/fxmartin/docker-homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/fxmartin/docker-homebridge.svg)](https://hub.docker.com/r/fxmartin/docker-homebridge/)
 [![GitHub forks](https://img.shields.io/github/forks/fxmartin/docker-homebridge.svg?style=social&label=Fork)](https://github.com/fxmartin/docker-homebridge)
-# Homebridge-Docker
+# docker-homebridge
 
 Docker image for Homebridge
 
