@@ -1,0 +1,4 @@
+{  "scripts": {
+    "install": "npm install -g homebridge-http-jeedom --unsafe-perm"
+  }
+}
