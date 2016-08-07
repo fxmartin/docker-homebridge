@@ -12,7 +12,9 @@ If you intend to run this docker image on a Synology NAS, read this documentatio
 http://chris.brandlehner.at/Brandlehner/cab_blog.nsf/d6plinks/CBRR-A6XQUY
 
 ## Supported plugins
-homebridge-philipshue
+homebridge-http-jeedom
+(and you can extend this list by adding more plugins in the file package.json)
+For example:
 homebridge-ninjablock-temperature
 homebridge-ninjablock-humidity
 homebridge-ninjablock-alarmstatedevice
@@ -20,7 +22,6 @@ homebridge-luxtronik2
 homebridge-mqttswitch
 homebridge-edomoticz
 homebridge-synology
-(and you can extend this list by adding more plugins in the file package.json)
 
 ## Configuration
 
